@@ -1,6 +1,7 @@
 .env
 *.pyc
-
+*.json
+*.ipynb
 __pycachle__
 
 venv

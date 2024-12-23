@@ -6,7 +6,7 @@ from unittest.mock import MagicMock
 from telegram import Update
 from telegram.ext import CallbackContext
 
-from modules.start_cmd import start_command
+from telegram_modules.start_cmd import start_command
 
 
 class TestStartCommand(unittest.TestCase):

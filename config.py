@@ -11,3 +11,5 @@ load_dotenv()
 # Access environment variables
 URL = os.getenv("BOT_LINK")
 TOKEN = os.getenv("TELEGRAM_TOKEN")
+
+user_chat_ids = []
